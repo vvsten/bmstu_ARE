@@ -1,2 +1,2 @@
-# TODO: remove this test file
+# Removed: test file no longer needed
 print('hello')
