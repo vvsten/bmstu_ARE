@@ -1,0 +1,237 @@
+{"@timestamp": "2026-10-12 10:14:37,745", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:15:51,436", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:24:27,784", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:24:29,953", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:24:52,294", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:30:40,656", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: привет это пример синтеза речи"}
+{"@timestamp": "2026-10-12 10:31:42,630", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: привет это пример синтеза речи"}
+{"@timestamp": "2026-10-12 10:46:23,213", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,214", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,218", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,218", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,218", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,218", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,221", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,221", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,221", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,222", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,222", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,222", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,225", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,226", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:23,226", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:23,226", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:23,226", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,229", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:23,233", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,754", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,754", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,758", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,758", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,759", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,759", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,762", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,762", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,762", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,762", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,762", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,762", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,765", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,765", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,765", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,765", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,766", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,766", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,766", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,766", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,767", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:31,767", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:31,767", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:31,767", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,770", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,773", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,773", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,773", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,773", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,773", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,773", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:46:31,774", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,774", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,774", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,774", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,774", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:46:31,774", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,257", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,257", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,262", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,262", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,262", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,262", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,265", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,265", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,265", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,265", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,265", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,265", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,269", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,270", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:47:59,270", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:47:59,270", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:47:59,270", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,273", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:47:59,277", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,728", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,729", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,734", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,734", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,734", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,734", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,737", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,737", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,737", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,737", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,737", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,737", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,741", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,742", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:11,742", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:11,742", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:11,742", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:11,745", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,745", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,745", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,745", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,745", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,746", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,746", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,746", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,746", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,746", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:11,750", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,770", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,771", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,775", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,775", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,775", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,775", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,778", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,778", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,778", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,778", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,778", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,778", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,781", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,781", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,781", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,781", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,782", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,782", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,782", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,782", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,783", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:28,783", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:28,783", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:28,783", "logger": "voiceapi", "level": "DEBUG", "message": "Transcription result: {'text': 'Привет мир'}"}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,786", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Loading model in background..."}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}
+{"@timestamp": "2026-10-12 10:48:28,790", "logger": "voiceapi", "level": "INFO", "message": "Model loaded successfully"}

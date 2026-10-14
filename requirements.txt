@@ -1,0 +1,14 @@
+fastapi
+torch==2.9.0
+torchaudio==2.9.0
+transformers>=4
+python-multipart
+uvicorn
+hydra-core
+omegaconf
+pyannote.audio
+sentencepiece
+soundfile
+scipy
+
+# See requirements-dev.txt for test and lint dependencies
