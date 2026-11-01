@@ -25,6 +25,8 @@ cleanup() {
     iptables -t nat -D OUTPUT     -p tcp --dport 8000 -j DNAT --to-destination 10.0.0.2:8000 2>/dev/null || true
     iptables -t nat -D POSTROUTING -s 127.0.0.1 -d 10.0.0.2 -p tcp --dport 8000 -j SNAT --to-source 10.0.0.1 2>/dev/null || true
     iptables -t nat -D POSTROUTING -s 10.0.0.0/24 -o "$HOST_IFACE" -j MASQUERADE 2>/dev/null || true
+    iptables -D FORWARD -s 10.0.0.0/24 -j ACCEPT 2>/dev/null || true
+    iptables -D FORWARD -d 10.0.0.0/24 -j ACCEPT 2>/dev/null || true
 
     ip link del veth0 2>/dev/null || true
     ip netns del "$NETNS" 2>/dev/null || true
@@ -100,6 +102,8 @@ sysctl -w net.ipv4.conf.veth0.route_localnet=1 >/dev/null
 sysctl -w net.ipv4.conf.veth0.rp_filter=0 >/dev/null
 
 iptables -t nat -A POSTROUTING -s 10.0.0.0/24 -o "$HOST_IFACE" -j MASQUERADE
+iptables -I FORWARD -s 10.0.0.0/24 -j ACCEPT
+iptables -I FORWARD -d 10.0.0.0/24 -j ACCEPT
 iptables -t nat -A PREROUTING  -p tcp --dport 8000 -j DNAT --to-destination 10.0.0.2:8000
 iptables -t nat -A OUTPUT      -p tcp --dport 8000 -j DNAT --to-destination 10.0.0.2:8000
 iptables -t nat -A POSTROUTING -s 127.0.0.1 -d 10.0.0.2 -p tcp --dport 8000 -j SNAT --to-source 10.0.0.1
